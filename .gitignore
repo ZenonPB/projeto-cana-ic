@@ -1,0 +1,29 @@
+# Dados e resultados (ficam no Google Drive)
+data/
+runs/
+
+# Pesos de modelos
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciais
+.env
+kaggle.json
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
